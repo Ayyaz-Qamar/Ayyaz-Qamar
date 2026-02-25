@@ -1,5 +1,5 @@
-<h1 align="center">Ayyaz Qamar</h1>
-<h3 align="center">Machine Learning Engineer | Data Analyst | AI Enthusiast</h3>
+# Ayyaz Qamar
+### AI Engineer | Machine Learning Specialist | Data Analyst
 
 <p align="center">
 Building intelligent systems with Machine Learning, Deep Learning & Generative AI
@@ -7,58 +7,76 @@ Building intelligent systems with Machine Learning, Deep Learning & Generative A
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Profile
 
-- 🎓 AI & Data Science Enthusiast focused on real-world problem solving  
-- 🤖 Working on Machine Learning, Deep Learning & Computer Vision projects  
-- 📊 Strong interest in Data Analytics & Predictive Modeling  
-- 🚀 Currently exploring Generative AI & LLM-based applications  
-- 🎯 Goal: To build scalable AI-powered systems  
+AI Engineer focused on developing scalable and production-ready machine learning systems.  
+Strong background in data-driven modeling, computer vision, and intelligent automation.
 
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming
-- Python
-- C++
-- SQL
-
-### 🤖 Machine Learning & AI
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib / Seaborn
-- OpenCV
-- TensorFlow / PyTorch (if applicable)
-- YOLO (Computer Vision)
-
-### 🗄️ Databases
-- MySQL
-
-### 🎨 Tools
-- Git & GitHub
+Currently advancing expertise in:
+- Deep Learning Architectures
+- Generative AI Systems
+- Large Language Models (LLMs)
+- End-to-End ML Deployment
 
 ---
 
+## 🧠 Core Expertise
 
-## 📈 GitHub Stats
+### Machine Learning
+- Supervised & Unsupervised Learning
+- Feature Engineering
+- Model Optimization & Evaluation
+- Cross Validation Techniques
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayyaz-qamar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyaz-qamar&layout=compact&theme=tokyonight" />
-</p>
+### Deep Learning
+- CNN Architectures
+- Transfer Learning
+- Object Detection Systems
+- Model Fine-tuning
+
+### Natural Language Processing
+- Text Classification
+- Information Extraction
+- Resume Screening Systems
+- NLP Pipelines
+
+### Generative AI
+- Prompt Engineering
+- LLM-based Applications
+- AI Automation Systems
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Technical Stack
 
-- 📧 Email: ayyazqamar12@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/ayyazqamar  
-- 🐦 Twitter: https://twitter.com/ayyazqamar01  
+**Programming:**  
+Python | C++ | SQL  
+
+**ML/DL Libraries:**  
+Scikit-learn | TensorFlow | PyTorch | OpenCV | Pandas | NumPy  
+
+**Databases:**  
+MySQL  
+
+**Tools & Platforms:**  
+Git | GitHub | Jupyter Notebook | Google Colab | VS Code  
 
 ---
 
-## ⚡ Professional Statement
+## 🌐 Portfolio
 
-> “I focus on building practical AI systems that solve real-world problems using data-driven approaches.”
+🔗 Personal Portfolio Website: *(Add your link here)*  
+📄 Resume: *(Add Google Drive / website link here)*  
+💼 LinkedIn: https://linkedin.com/in/ayyazqamar  
+
+---
+
+## 📫 Contact
+
+Email: ayyazqamar12@gmail.com  
+
+---
+
+## 💡 Engineering Philosophy
+
+> “I build AI systems that convert raw data into measurable business impact.”
