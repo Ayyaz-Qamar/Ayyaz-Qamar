@@ -125,8 +125,8 @@ I'm an **AI Engineer** focused on developing **scalable, production-ready** mach
 
 | Resource | Link |
 |----------|------|
-| 🔗 **Portfolio Website** | _Coming Soon_ |
-| 📄 **Resume** | _Add your link_ |
+| 🔗 **Portfolio Website** |(https://ayyaz-qamar.github.io) |
+| 📄 **Resume** | |
 | 💼 **LinkedIn** | [linkedin.com/in/ayyaz-qamar-41bb51383](https://www.linkedin.com/in/ayyaz-qamar-41bb51383) |
 | 📧 **Email** | [ayyazqamar12@gmail.com](mailto:ayyazqamar12@gmail.com?subject=Hello%20Ayyaz) |
 
