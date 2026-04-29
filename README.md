@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ayyaz Qamar
 
-### 🤖 AI Engineer • Machine Learning Specialist • Data Analyst
+###  AI Engineer • Machine Learning Specialist • Data Analyst
 
 *Building intelligent systems with Machine Learning, Deep Learning & Generative AI*
 
