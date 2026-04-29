@@ -6,7 +6,7 @@
 
 *Building intelligent systems with Machine Learning, Deep Learning & Generative AI*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayyazqamar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayyaz-qamar-41bb51383)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayyazqamar12@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayyaz-Qamar)
@@ -126,9 +126,9 @@ I'm an **AI Engineer** focused on developing **scalable, production-ready** mach
 | Resource | Link |
 |----------|------|
 | 🔗 **Portfolio Website** | _Coming Soon_ |
-| 📄 **Resume** |  |
-| 💼 **LinkedIn** | [linkedin.com/in/ayyazqamar](https://linkedin.com/in/ayyazqamar) |
-| 📧 **Email** | [ayyazqamar12@gmail.com](mailto:ayyazqamar12@gmail.com) |
+| 📄 **Resume** | _Add your link_ |
+| 💼 **LinkedIn** | [linkedin.com/in/ayyaz-qamar-41bb51383](https://www.linkedin.com/in/ayyaz-qamar-41bb51383) |
+| 📧 **Email** | [ayyazqamar12@gmail.com](mailto:ayyazqamar12@gmail.com?subject=Hello%20Ayyaz) |
 
 ---
 
