@@ -125,8 +125,7 @@ I'm an **AI Engineer** focused on developing **scalable, production-ready** mach
 
 | Resource | Link |
 |----------|------|
-| 🔗 **Portfolio Website** |(https://ayyaz-qamar.github.io) |
-| 📄 **Resume** | |
+| 🔗 **Portfolio Website** |celadon-tapioca-524880.netlify.app |
 | 💼 **LinkedIn** | [linkedin.com/in/ayyaz-qamar-41bb51383](https://www.linkedin.com/in/ayyaz-qamar-41bb51383) |
 | 📧 **Email** | [ayyazqamar12@gmail.com](mailto:ayyazqamar12@gmail.com?subject=Hello%20Ayyaz) |
 
